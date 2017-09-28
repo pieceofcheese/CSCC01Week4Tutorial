@@ -4,4 +4,4 @@ while x<4:
     print("world")
     x += 1
 
-
+print(x)
